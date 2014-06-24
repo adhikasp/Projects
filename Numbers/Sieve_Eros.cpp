@@ -55,6 +55,7 @@ int main()
             list_prima.push_back(i);
         }
     }
+    // Prints the result
     /*
     for (uint x: list_prima){
         cout << x << " ";
